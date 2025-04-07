@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
