@@ -40,3 +40,5 @@ This project was built in a day to show my interest in:
 
 Let’s build something great 👇🏾  
 [LinkedIn](https://www.linkedin.com/in/tobennanwankwo) • [GitHub](https://github.com/tob001)
+## 🚀 Live Demo  
+[Click here to try it out!](https://tob001.github.io/weather-fit-app)
